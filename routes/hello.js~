@@ -1,0 +1,4 @@
+
+express.index = function(req,res){
+	res.render('hello', {name: 'Amine'});
+};
