@@ -1,4 +1,6 @@
 guruJS
 ======
 
-A chat website based on expressJS framework.
+A chat web app based on expressJS framework.
+
+Tools used: Node.JS, JavaScript.
